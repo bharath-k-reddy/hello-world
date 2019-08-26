@@ -3,3 +3,7 @@ Learn the following
 Git
 GitHub
 GitLab
+OpenSource Programming
+Python
+Kafka
+Micro Services
