@@ -1,0 +1,6 @@
+Learning process for Python
+1. Search for Python tutorial on WWW
+2. Select course link from well known sites like tutorials point
+3. Complete the basic sytax learning
+4. Leaan advance concepts
+5. Update your learning profile
