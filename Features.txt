@@ -7,3 +7,5 @@ OpenSource Programming
 Python
 Kafka
 Micro Services
+Data Science
+AI
