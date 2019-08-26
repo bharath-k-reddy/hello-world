@@ -7,7 +7,11 @@ OpenSource Programming
 Python
 Kafka
 Micro Services
+Data Science
+AI
 
+Done my changes
 
 Thank you.
 Final Copy
+
